@@ -2,8 +2,9 @@ import Foundation
 
 class VirtualAssistant {
     func executeCommand(_ command: String) -> String {
-        // TODO: Fill in missing code Implement logic Implement logic
-        return ""
+        var response = ""
+        // TODO: Implement logic for executing commands
+        return response
     }
 
     func speak(_ message: String) {

@@ -6,9 +6,7 @@ class UserInterface {
     }
 
     func getUserInput() -> String {
-        guard let input = readLine() else {
-            return ""
-        }
+        let input = readLine() ?? ""
         return input
     }
 }
