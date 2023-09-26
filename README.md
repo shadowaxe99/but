@@ -12,11 +12,25 @@ To get started with the Pet Therapy project, follow these steps:
 2. Install the necessary dependencies
 3. Run the main program
 
+```shell
+$ git clone https://github.com/shadowaxe99/but.git
+$ cd but
+$ swift run
+```
+
 ## Features
 
 - Virtual pets with different species
 - Interact with pets through commands
 - Track pet's health and happiness
+
+## Usage
+
+To interact with the virtual pets, run the main program and follow the on-screen instructions.
+
+```shell
+$ swift run
+```
 
 ## Contributing
 
