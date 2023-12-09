@@ -1,6 +1,6 @@
 pylint
 pyside6
 rx
-PyInstaller==5.4.1
+PyInstaller==5.13.1
 pyinstaller-hooks-contrib
 qt-material
